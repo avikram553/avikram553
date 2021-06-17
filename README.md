@@ -11,6 +11,7 @@ I am currently an electronics and communication undergrad who has keen interest 
 [<img align="left" alt="avikram553 | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="avikram553 | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="avikram553 | Codechef" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />][Codechef]
+
 [instagram]: https://instagram.com/avikram553
 [linkedin]: https://www.linkedin.com/in/avikram553
 [Codechef]: https://www.codechef.com/users/avikram553
@@ -22,8 +23,9 @@ I am currently an electronics and communication undergrad who has keen interest 
 
 
 
+<img align="left" alt="avikram553's Github Stats" src="https://github-readme-stats.vercel.app/api?username=avikram553&show_icons=true&hide_border=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnabdeypolimi&show_icons=true&hide_border=true)](https://github.com/avikram553)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avikram553&show_icons=true&hide_border=true)](https://github.com/avikram553)
 
 <!--
 **avikram553/avikram553** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
