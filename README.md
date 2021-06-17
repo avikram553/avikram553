@@ -1,4 +1,4 @@
-## What's Up! I'm Aditya 👋
+## What's Up! I'm Aditya 👨‍💻
 I am currently an electronics and communication undergrad who has keen interest in technology and enthusiasm to learn them.
 - 🌱 I’m currently learning Cloud Native
 - 🤔 I’m looking for help with Docker and Kubernetes
