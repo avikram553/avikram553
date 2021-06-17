@@ -27,11 +27,8 @@ I am currently an electronics and communication undergrad who has keen interest 
 [<img align="left" alt="avikram553 | Numpy" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/numpy.svg" />][github]
 [<img align="left" alt="avikram553 | Pandas" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pandas.svg" />][github]
 
-<br>
 
-
-
-
+## Stats
 
 <img align="left" alt="avikram553's Github Stats" src="https://github-readme-stats.vercel.app/api?username=avikram553&show_icons=true&hide_border=true" />
 
