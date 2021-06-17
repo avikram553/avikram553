@@ -6,6 +6,7 @@ I am currently an electronics and communication undergrad who has keen interest 
 - 😄 Pronouns: He/Him
 
 ## Find Me  Online
+<br>
 
 [<img align="left" alt="avikram553 | Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img align="left" alt="avikram553 | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -21,6 +22,7 @@ I am currently an electronics and communication undergrad who has keen interest 
 <br>
 
 ## Tools and Technologies
+<br>
 [<img align="left" alt="avikram553 | Python" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />][github]
 [<img align="left" alt="avikram553 | Azure" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftazure.svg" />][github]
 [<img align="left" alt="avikram553 | Flask" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flask.svg" />][github]
