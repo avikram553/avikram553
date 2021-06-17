@@ -1,4 +1,4 @@
-### What's Up! I'm Aditya 👋
+## What's Up! I'm Aditya 👋
 I am currently an electronics and communication undergrad who has keen interest in technology and enthusiasm to learn them.
 - 🌱 I’m currently learning Cloud Native
 - 🤔 I’m looking for help with Docker and Kubernetes
@@ -14,7 +14,7 @@ I am currently an electronics and communication undergrad who has keen interest 
 
 [instagram]: https://instagram.com/avikram553
 [linkedin]: https://www.linkedin.com/in/avikram553
-[Codechef]: https://www.codechef.com/avikram553
+[Codechef]: https://www.codechef.com/users/avikram553
 <!--
 **avikram553/avikram553** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
