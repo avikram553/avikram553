@@ -16,10 +16,15 @@ I am currently an electronics and communication undergrad who has keen interest 
 [linkedin]: https://www.linkedin.com/in/avikram553
 [Codechef]: https://www.codechef.com/users/avikram553
 [gmail]: https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=avikram553@gmail.com
+[github]: https://www.github.com/avikram553
 <br>
 
 ## Tools and Technologies
 [<img align="left" alt="avikram553 | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />][github]
+[<img align="left" alt="avikram553 | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlecollab.svg" />][github]
+[<img align="left" alt="avikram553 | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftazure.svg" />][github]
+
+
 
 
 
