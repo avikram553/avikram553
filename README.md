@@ -35,6 +35,7 @@ I am currently an electronics and communication undergrad who has keen interest 
 <br>
 
 ## Stats
+<br>
 
 <img align="left" alt="avikram553's Github Stats" src="https://github-readme-stats.vercel.app/api?username=avikram553&show_icons=true&hide_border=true" />
 
