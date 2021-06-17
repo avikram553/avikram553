@@ -20,9 +20,9 @@ I am currently an electronics and communication undergrad who has keen interest 
 <br>
 
 ## Tools and Technologies
-[<img align="left" alt="avikram553 | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />][github]
-[<img align="left" alt="avikram553 | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlecolab.svg" />][github]
-[<img align="left" alt="avikram553 | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftazure.svg" />][github]
+[<img align="left" alt="avikram553 | Python" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />][github]
+[<img align="left" alt="avikram553 | Google Colab" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlecolab.svg" />][github]
+[<img align="left" alt="avikram553 | Azure" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftazure.svg" />][github]
 
 
 
