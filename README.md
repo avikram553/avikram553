@@ -16,7 +16,7 @@ I am currently an electronics and communication undergrad who has keen interest 
 [instagram]: https://instagram.com/avikram553
 [linkedin]: https://www.linkedin.com/in/avikram553
 [Codechef]: https://www.codechef.com/users/avikram553
-[gmail]: avikram553@gmail.com
+[gmail]: <a href="mailto:avikram553@gmail.com"></a>
 <!--
 **avikram553/avikram553** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
