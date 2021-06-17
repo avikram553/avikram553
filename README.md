@@ -16,6 +16,7 @@ I am currently an electronics and communication undergrad who has keen interest 
 [linkedin]: https://www.linkedin.com/in/avikram553
 [Codechef]: https://www.codechef.com/users/avikram553
 [gmail]: https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=avikram553@gmail.com
+<br>
 
 ## Tools and Technologies
 
