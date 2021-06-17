@@ -23,12 +23,14 @@ I am currently an electronics and communication undergrad who has keen interest 
 
 ## Tools and Technologies
 <br>
+
 [<img align="left" alt="avikram553 | Python" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />][github]
 [<img align="left" alt="avikram553 | Azure" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftazure.svg" />][github]
 [<img align="left" alt="avikram553 | Flask" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flask.svg" />][github]
 [<img align="left" alt="avikram553 | MySql" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />][github]
 [<img align="left" alt="avikram553 | Numpy" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/numpy.svg" />][github]
 [<img align="left" alt="avikram553 | Pandas" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pandas.svg" />][github]
+
 <br>
 <br>
 
